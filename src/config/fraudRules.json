@@ -1,0 +1,17 @@
+{
+  "suspiciousDomains": [
+    ".ru",
+    ".tk",
+    ".ml",
+    ".ga",
+    ".cf",
+    "test.com",
+    "example.com",
+    "tempmail.org",
+    "10minutemail.com",
+    "guerrillamail.com"
+  ],
+  "highRiskAmountThreshold": 50000,
+  "blockingThreshold": 0.5,
+  "stripeThreshold": 0.3
+}
